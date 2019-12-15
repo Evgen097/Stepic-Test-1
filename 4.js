@@ -1,1 +1,1 @@
-console.log('New branch')
+console.log('New branch, changed by partner')
